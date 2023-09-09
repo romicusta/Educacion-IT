@@ -1,2 +1,1 @@
-"# test_repo_Eduit" 
-"# Educacion-IT" 
+# Educacion-IT
